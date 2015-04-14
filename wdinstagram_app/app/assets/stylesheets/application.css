@@ -1,0 +1,18 @@
+h1 {
+	font-family: 'Libre Baskerville', serif;
+	color: #CC0066;
+	text-align: center;
+}
+
+img {
+	width: 500px;
+	height: auto;
+	border: 3px #CC0066 solid;
+	padding: 10px;
+	border-style: ridge;
+}
+
+body {
+      font-family: 'Handlee', sans-serif;
+      font-size: 18px;
+     }
